@@ -1,6 +1,6 @@
 {
   "name": "@0xdbe/fake4ea5-npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A fake NPM Package used to test trusted publishing",
   "license": "MIT",
   "author": "0xdbe",
