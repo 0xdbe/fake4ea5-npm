@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/0xdbe/fake4ea5-npm/compare/fake4ea5-npm-v1.1.1...fake4ea5-npm-v1.2.0) (2025-09-07)
+
+
+### Features
+
+* change greeting message ([261fa1e](https://github.com/0xdbe/fake4ea5-npm/commit/261fa1e32dff703cd02a2caec28e388afb5699ba))
+
 ## [1.1.1](https://github.com/0xdbe/fake4ea5-npm/compare/fake4ea5-npm-v1.1.0...fake4ea5-npm-v1.1.1) (2025-09-07)
 
 
