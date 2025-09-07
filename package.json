@@ -1,0 +1,12 @@
+{
+  "name": "@0xdbe/fake4ea5-npm",
+  "version": "1.0.0",
+  "description": "A fake NPM Package used to test trusted publishing",
+  "license": "MIT",
+  "author": "0xdbe",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
